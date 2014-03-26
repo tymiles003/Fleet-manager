@@ -7,16 +7,17 @@ include "includes/connector.php";
 <head>
 	<meta charset="UTF-8">
 	<title>Document</title>
+	<link rel="stylesheet" href="assets/css/default.css">
 
 
 </head>
 <body>
-	<nav>
-		<ul>
-			<li>HOME</li>
-			<li>SETTINGS</li>
-			<li>MY FLEET</li>
-			<li>HELP</li>
+</a>	<nav>
+</a>		<ul>
+</a>			<li><a href="#">HOMEY</a></li>
+			<li><a href="#">SETTINGS</a></li>
+			<li><a href="#">MY FLEET</a></li>
+			<li><a href="#">HELP</a></li>
 		</ul>
 	</nav>
 	<section class="main">

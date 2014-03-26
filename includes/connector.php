@@ -2,7 +2,7 @@
 $mysql_user = 'fleet';
 $mysql_password = 'pass';
 $db_name = 'fleet';
-$debug = true;
+$debug = false;
 
 $link = mysql_connect('localhost:8889', $mysql_user, $mysql_password);
 if (!$link) {

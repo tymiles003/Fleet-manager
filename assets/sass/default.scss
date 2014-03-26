@@ -1,0 +1,15 @@
+@import 'base.scss';
+@import 'normalize.scss';
+
+nav {
+		li{
+		list-style-type: none;
+		float: left;
+		a{
+			display: block;
+			padding: $pixel-pad;
+			background-color: white;
+			margin: 0 $pixel-pad;
+		}
+	}
+}
